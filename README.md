@@ -2,7 +2,8 @@
 
 Pemasangan aplikasi :
 - Download semua file
-- Rename folder yang didownload menjadi 'ecraft'
+- Ekstrak ke direktori htdocs pada XAPP
+- Rename folder yang diekstrak menjadi 'ecraft'
 - Tambah database baru di phpmyadmin dengan nama 'ecraft' kemudian masukkan file ecraft.sql
 - Nyalakan XAMPP
 - Buka aplikasi melalui browser
